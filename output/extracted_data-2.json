@@ -1,0 +1,44 @@
+{
+    "Invoice Number": "Amount in Euro:",
+    "Customer Number": "0,58",
+    "Tenure": "0,70",
+    "Date": "1,50",
+    "Line Items": [
+        {
+            "Item": "Request sections:",
+            "Quantity": "T1:",
+            "Price": "T2:",
+            "Total": "T3:"
+        },
+        {
+            "Item": "user-account-1",
+            "Quantity": "10",
+            "Price": "0",
+            "Total": "99"
+        },
+        {
+            "Item": "user-account-2",
+            "Quantity": "4",
+            "Price": "0",
+            "Total": "63"
+        },
+        {
+            "Item": "Transaction Fee Seg",
+            "Quantity": "T1:",
+            "Price": "T2:",
+            "Total": "T3:"
+        },
+        {
+            "Item": "Queries in Total:",
+            "Quantity": "14",
+            "Price": "0",
+            "Total": "162"
+        },
+        {
+            "Item": "Total in Euro:",
+            "Quantity": "8,12 \u20ac",
+            "Price": "0,00 \u20ac",
+            "Total": "243,00 \u20ac"
+        }
+    ]
+}

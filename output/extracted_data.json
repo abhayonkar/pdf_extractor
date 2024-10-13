@@ -1,0 +1,140 @@
+{
+    "Invoice Number": "123100401",
+    "Customer Number": "12345",
+    "Tenure": "01.02.2024 - 29.02.2024",
+    "Date": "1. M\u00e4rz 2024",
+    "Line Items": [
+        {
+            "Item": "Invoice No",
+            "Quantity": "Customer No",
+            "Price": "Invoice Period",
+            "Total": "Date"
+        },
+        {
+            "Item": "Service Description",
+            "Quantity": "Amount\n-without VAT-",
+            "Price": "quantity",
+            "Total": "Total Amount"
+        },
+        {
+            "Item": "Basic Fee wmView",
+            "Quantity": "130,00 \u20ac",
+            "Price": "1",
+            "Total": "130,00 \u20ac"
+        },
+        {
+            "Item": "Basis fee for additional user accounts",
+            "Quantity": "10,00 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Basic Fee wmPos",
+            "Quantity": "50,00 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Basic Fee wmGuide",
+            "Quantity": "1.000,00 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Change of user accounts",
+            "Quantity": "10,00 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee T1",
+            "Quantity": "0,58 \u20ac",
+            "Price": "14",
+            "Total": "8,12 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee T2",
+            "Quantity": "0,70 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee T3",
+            "Quantity": "1,50 \u20ac",
+            "Price": "162",
+            "Total": "243,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee T4",
+            "Quantity": "0,50 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee T5",
+            "Quantity": "0,80 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee T6",
+            "Quantity": "1,80 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee G1",
+            "Quantity": "0,30 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee G2",
+            "Quantity": "0,30 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee G3",
+            "Quantity": "0,40 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee G4",
+            "Quantity": "0,40 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee G5",
+            "Quantity": "0,30 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee G6",
+            "Quantity": "0,30 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": null,
+            "Quantity": "Total",
+            "Price": null,
+            "Total": "381,12 \u20ac"
+        },
+        {
+            "Item": null,
+            "Quantity": "VAT 19 %",
+            "Price": null,
+            "Total": "72,41 \u20ac"
+        },
+        {
+            "Item": null,
+            "Quantity": "Gross Amount incl. VAT",
+            "Price": null,
+            "Total": "453,53 \u20ac"
+        }
+    ]
+}

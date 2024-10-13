@@ -1,0 +1,35 @@
+{
+    "Header Extraction": {
+        "Invoice Number": {
+            "rules": ["Find 'Invoice No', 'Invoice #' or 'Bill No' and extract the value"]
+        },
+        "Invoice Date": {
+            "rules": ["Find 'Invoice Date' or 'Date of Issue' and extract the date in multiple formats (DD.MM.YYYY, MM/DD/YYYY)"]
+        },
+        "Vendor Name": {
+            "rules": ["Find 'Vendor Name', 'Supplier', or 'Company Name' and extract the text value"]
+        },
+        "Total Amount": {
+            "rules": ["Find 'Total Amount', 'Amount Due', or 'Invoice Amount' and extract the numeric value"]
+        }
+    },
+    "Table Extraction": {
+        "Line Items": {
+            "columns": {
+                "Item": {
+                    "rules": ["Extract the value if the row has at least 4 elements"]
+                },
+                "Quantity": {
+                    "rules": ["Extract the value if the row has at least 4 elements"]
+                },
+                "Price": {
+                    "rules": ["Extract the value if the row has at least 4 elements"]
+                },
+                "Total": {
+                    "rules": ["Extract the value if the row has at least 4 elements"]
+                }
+            },
+            "single_element_rule": "Extract the value if the row has only 1 element"
+        }
+    }
+}

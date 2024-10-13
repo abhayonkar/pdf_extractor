@@ -1,0 +1,148 @@
+{
+    "Invoice Number": "Basis fee for additional user accounts",
+    "Customer Number": "10,00 \u20ac",
+    "Date": "0,00 \u20ac",
+    "Line Items": [
+        {
+            "Item": "Basic Fee wmPos",
+            "Quantity": "50,00 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Basic Fee wmGuide",
+            "Quantity": "1.000,00 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Change of user accounts",
+            "Quantity": "10,00 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee T1",
+            "Quantity": "0,58 \u20ac",
+            "Price": "14",
+            "Total": "8,12 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee T2",
+            "Quantity": "0,70 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee T3",
+            "Quantity": "1,50 \u20ac",
+            "Price": "162",
+            "Total": "243,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee T4",
+            "Quantity": "0,50 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee T5",
+            "Quantity": "0,80 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee T6",
+            "Quantity": "1,80 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee G1",
+            "Quantity": "0,30 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee G2",
+            "Quantity": "0,30 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee G3",
+            "Quantity": "0,40 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee G4",
+            "Quantity": "0,40 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee G5",
+            "Quantity": "0,30 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": "Transaction Fee G6",
+            "Quantity": "0,30 \u20ac",
+            "Price": "0",
+            "Total": "0,00 \u20ac"
+        },
+        {
+            "Item": null,
+            "Quantity": "Total",
+            "Price": null,
+            "Total": "381,12 \u20ac"
+        },
+        {
+            "Item": null,
+            "Quantity": "VAT 19 %",
+            "Price": null,
+            "Total": "72,41 \u20ac"
+        },
+        {
+            "Item": null,
+            "Quantity": "Gross Amount incl. VAT",
+            "Price": null,
+            "Total": "453,53 \u20ac"
+        },
+        {
+            "Item": "CCL/3715"
+        },
+        {
+            "Item": "CRS/28432"
+        },
+        {
+            "Item": "Cs/52113"
+        },
+        {
+            "Item": "GS 32090"
+        },
+        {
+            "Item": "Kpi/22695"
+        },
+        {
+            "Item": "PG 7772"
+        },
+        {
+            "Item": "Rjn/11138"
+        },
+        {
+            "Item": "SF-M 596/99-08"
+        },
+        {
+            "Item": "Ttrb/17885"
+        },
+        {
+            "Item": "WPN:24791"
+        },
+        {
+            "Item": "Wwt/15658"
+        }
+    ]
+}

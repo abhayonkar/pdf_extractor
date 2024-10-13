@@ -1,0 +1,104 @@
+{
+    "Invoice Number": "T1:",
+    "Customer Number": "T2:",
+    "Tenure": "T3:",
+    "Date": "T4:",
+    "Line Items": [
+        {
+            "Item": "wmview, wmProfile and User Profiles Query Segments:",
+            "Quantity": null,
+            "Price": null,
+            "Total": null
+        },
+        {
+            "Item": "4",
+            "Quantity": "0",
+            "Price": "9",
+            "Total": "0"
+        },
+        {
+            "Item": "0",
+            "Quantity": "0",
+            "Price": "12",
+            "Total": "0"
+        },
+        {
+            "Item": "0",
+            "Quantity": "0",
+            "Price": "4",
+            "Total": "0"
+        },
+        {
+            "Item": "5",
+            "Quantity": "0",
+            "Price": "36",
+            "Total": "0"
+        },
+        {
+            "Item": "0",
+            "Quantity": "0",
+            "Price": "19",
+            "Total": "0"
+        },
+        {
+            "Item": "1",
+            "Quantity": "0",
+            "Price": "7",
+            "Total": "0"
+        },
+        {
+            "Item": "2",
+            "Quantity": "0",
+            "Price": "6",
+            "Total": "0"
+        },
+        {
+            "Item": "0",
+            "Quantity": "0",
+            "Price": "11",
+            "Total": "0"
+        },
+        {
+            "Item": "0",
+            "Quantity": "0",
+            "Price": "15",
+            "Total": "0"
+        },
+        {
+            "Item": "0",
+            "Quantity": "0",
+            "Price": "5",
+            "Total": "0"
+        },
+        {
+            "Item": "1",
+            "Quantity": "0",
+            "Price": "23",
+            "Total": "0"
+        },
+        {
+            "Item": "1",
+            "Quantity": "0",
+            "Price": "4",
+            "Total": "0"
+        },
+        {
+            "Item": "0",
+            "Quantity": "0",
+            "Price": "11",
+            "Total": "0"
+        },
+        {
+            "Item": "Price for each Query in Euro:",
+            "Quantity": null,
+            "Price": null,
+            "Total": null
+        },
+        {
+            "Item": "0,58",
+            "Quantity": "0,70",
+            "Price": "1,50",
+            "Total": "0,50"
+        }
+    ]
+}
